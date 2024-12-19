@@ -38,7 +38,7 @@ g. Input and Display Access: It is assumed that each process runs in its own win
 
 Output
 
-Each time a process terminates, the program write to the Terminal/Command Prompt a short report with:
+Each time a process terminates, the program writes to the Terminal/Command Prompt a short report with:
 1. The total simulated time elapsed, 
 2. The  number  of  read  operations  performed  by  the terminating process that required accessing the SSD, the number of those that did not, as well as the number of write operations performed by the same process. 
 3. For each process in main memory and the process that has just terminated, one line with the sequence number of the process, and its current status (READY, RUNNING, BLOCKED, or TERMINATED)
