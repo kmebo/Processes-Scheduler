@@ -18,6 +18,7 @@ The program reads its input from .txt file which looks like (omitting the commen
 
 
 The program processes several different operation including:
+
 a. SSD Accesses which will take 0.1 milliseconds.
 
 b. SSD Allocation: As the SSD can only process one request at  a  time, the program maintain a  single FCFS queue for processes waiting for the SSD.
