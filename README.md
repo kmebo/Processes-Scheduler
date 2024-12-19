@@ -48,5 +48,5 @@ Finally, the skills demonstrated in this project are:
 * Proficient use of Java and Object-Oriented principles (OOP) for simulation and algorithm development.
 * Knowledge of data structures such as queues and lists to manage processes.
 
-For any question, please send me a LinkedIn message at 'https://www.linkedin.com/in/kevin-mejia-bonilla/'!
+For any question, please send me a LinkedIn message at https://www.linkedin.com/in/kevin-mejia-bonilla/!
 
