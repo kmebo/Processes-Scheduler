@@ -7,6 +7,7 @@ It is mandatory that the user have already set up the Java environment locally o
    * where X could be input10.txt, . . ., input14.txt
 
 Input
+
 The program reads its input from .txt file which looks like (omitting the comments):
 * BSIZE 4096  //  block size is 4,096 KB
 * START    0  //  new process starts at t = 0 ms 
@@ -36,6 +37,7 @@ g. Input and Display Access: It is assumed that each process runs in its own win
 
 
 Output
+
 Each time a process terminates, the program write to the Terminal/Command Prompt a short report with:
 1. The total simulated time elapsed, 
 2. The  number  of  read  operations  performed  by  the terminating process that required accessing the SSD, the number of those that did not, as well as the number of write operations performed by the same process. 
