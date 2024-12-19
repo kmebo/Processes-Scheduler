@@ -43,5 +43,10 @@ Each time a process terminates, the program writes to the Terminal/Command Promp
 2. The  number  of  read  operations  performed  by  the terminating process that required accessing the SSD, the number of those that did not, as well as the number of write operations performed by the same process. 
 3. For each process in main memory and the process that has just terminated, one line with the sequence number of the process, and its current status (READY, RUNNING, BLOCKED, or TERMINATED)
 
-For any question, please send me a LinkedIn message!
+Finally, the skills demonstrated in this project are:
+* Strong understanding of CPU scheduling algorithms and their implementation.
+* Proficient use of Java and Object-Oriented principles (OOP) for simulation and algorithm development.
+* Knowledge of data structures such as queues and lists to manage processes.
+
+For any question, please send me a LinkedIn message at 'https://www.linkedin.com/in/kevin-mejia-bonilla/'!
 
