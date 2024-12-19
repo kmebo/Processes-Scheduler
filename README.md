@@ -8,12 +8,12 @@ where X could be input10.txt, . . ., input14.txt
 
 Input
 The program reads its input from .txt file which looks like (omitting the comments):
-BSIZE 4096  //  block size is 4,096 KB
-START    0  //  new process starts at t = 0 ms 
-CORE   200  // request 200 ms of CPU time
-READ   256  // read 256B from SSD 
-CORE   30   // request 30 ms of CPU time 
-DISPLAY 100 // write to display for 100 ms
+* BSIZE 4096  //  block size is 4,096 KB
+* START    0  //  new process starts at t = 0 ms 
+* CORE   200  // request 200 ms of CPU time
+* READ   256  // read 256B from SSD 
+* CORE   30   // request 30 ms of CPU time 
+* DISPLAY 100 // write to display for 100 ms
 . . .
 
 
