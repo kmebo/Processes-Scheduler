@@ -4,13 +4,13 @@ This project simulates scheduling several processes.
 It is mandatory that the user have already set up the Java environment locally on the machine to run this project. Then, the use can type:
 1. javac driver.javar
 2. java driver X
-    where X could be input10.txt, . . ., input14.txt
+where X could be input10.txt, . . ., input14.txt
 
 Input
 The program reads its input from .txt file which looks like (omitting the comments):
-BSIZE 4096  //  block size is 4,096 KB 
+BSIZE 4096  //  block size is 4,096 KB
 START    0  //  new process starts at t = 0 ms 
-CORE   200  // request 200 ms of CPU time 
+CORE   200  // request 200 ms of CPU time
 READ   256  // read 256B from SSD 
 CORE   30   // request 30 ms of CPU time 
 DISPLAY 100 // write to display for 100 ms
