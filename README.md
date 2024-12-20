@@ -1,7 +1,7 @@
 # Processes-Scheduler
 This project simulates scheduling several processes.
 
-It is mandatory that the user have already set up the Java environment locally on the machine to run this project. Then, the use can type:
+It is mandatory that the user have already set up the Java environment locally on the machine to run this project. Then, the user should type:
 1. javac driver.java
 2. java driver X
    * where X could be input10.txt, . . ., input14.txt
